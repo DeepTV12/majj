@@ -56,7 +56,7 @@ To use this bot, you need to register it with the m*ajor Telegram Bot.
 2. **Navigate to the project directory**
 
     ```bash
-    cd majohub
+    cd majj
     ```
 
 3. **Create a virtual environment (optional but recommended)**
