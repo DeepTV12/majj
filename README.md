@@ -151,4 +151,4 @@ python main.py
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [ https://t.me/DeeplChainSup ]
+For questions or support, please contact [ https://t.me/DeepTV12 ]
