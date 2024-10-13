@@ -1,6 +1,6 @@
-# m*ajor Bot
+# mmajj Bot
 
-A Python bot for interacting with the M*jor Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
+A Python bot for interacting with the Maj Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 
 [TELEGRAM CHANNEL](https://t.me/DeepTV12) | [Youtube](https://www.youtube.com/@DeepT.V)
 
