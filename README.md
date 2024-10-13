@@ -2,20 +2,19 @@
 
 A Python bot for interacting with the M*jor Telegram Bot API. This bot can perform various tasks such as checking in, managing tasks, holding coins, spinning, and retrieving user information.
 
-[TELEGRAM CHANNEL](https://t.me/Deeplchain) | [TWITTER](https://x.com/itsjaw_real)
+[TELEGRAM CHANNEL](https://t.me/DeepTV12) | [Youtube](https://www.youtube.com/@DeepT.V)
 
 ### This bot helpfull? Contributed by buying me a coffee: 
 ```
-0x705C71fc031B378586695c8f888231e9d24381b4 - EVM
-TDTtTc4hSnK9ii1VDudZij8FVK2ZtwChja - TRON
-UQBy7ICXV6qFGeFTRWSpnMtoH6agYF3PRa5nufcTr3GVOPri - TON
+TEythEu5psSALzCEkKbDLbZjmT3qBnwhaf - USDT in TRC20
+UQAuQ6e858xTKi4OJ5zf7qmkBwXB4Pcupf9l0oyrWf84_915 - TON/USDT in TON
 ```
 
 ## Register
 
 To use this bot, you need to register it with the m*ajor Telegram Bot. 
 
-1. Open the [M*jor Telegram Bot](https://t.me/major/start?startapp=1396812260)
+1. Open the [M*jor Telegram Bot](https://t.me/major/start?startapp=1621112077)
 2. Click on the "Start App" or "Open App" button
 3. Install This m*ajor Telegram Bot
 4. Have Fun 🦈
