@@ -50,7 +50,7 @@ To use this bot, you need to register it with the m*ajor Telegram Bot.
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/nadirasaid8/majohub.git
+    git clone https://github.com/DeepTV12/majj.git
     ```
 
 2. **Navigate to the project directory**
